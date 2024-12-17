@@ -1,5 +1,5 @@
-const clientId = 'YOUR_CLIENT_ID';
-const redirectUri = 'http://localhost:8888/callback'; // این را با آدرس سایت خود جایگزین کنید
+const clientId = '139b5a6a667646c7b89c27ab81d47242';
+const redirectUri = 'https://givonar.github.io/Spot/'; // این را با آدرس سایت خود جایگزین کنید
 
 let accessToken;
 

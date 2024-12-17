@@ -1,4 +1,4 @@
-const clientId = 'YOUR_CLIENT_ID';
+const clientId = '139b5a6a667646c7b89c27ab81d47242';
 const redirectUri = 'https://givonar.github.io/Spot/';
 
 let accessToken;
